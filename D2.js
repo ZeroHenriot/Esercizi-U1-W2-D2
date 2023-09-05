@@ -195,7 +195,7 @@ const numbers1 = []
 
 console.log(numbers1)
 
-numbers1.push = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+numbers1.push(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 console.log(numbers1)
 
 /* ESERCIZIO 15
